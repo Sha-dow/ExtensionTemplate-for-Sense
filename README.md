@@ -1,7 +1,5 @@
-# Highcharts for Sense
-Highcharts extension for Qlik Sense
-
-Documentation is coming soon
+# Extension Template for Sense
+Basic extension template project for Qlik Sense
 
 # License
 This extension is licensed under MIT
